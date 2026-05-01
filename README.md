@@ -1,63 +1,31 @@
-☁️ Cloud Kitchen Management System (CKMS)
+🏎️ Uni-Apex
+A Formula 1 Inspired Campus Experience Platform
 
-Project Overview
+Uni-Apex is a Formula 1–themed campus website designed to transform the student experience into a competitive, engaging, and visually dynamic journey. It combines academic tracking with F1-style elements such as podium rankings, race-themed navigation, and performance analytics.
 
-The Cloud Kitchen Management System (CKMS) is a robust backend application designed to streamline the operations of a digital, delivery-only kitchen (cloud kitchen or dark kitchen). Built with Java, it handles core processes such as order lifecycle management, inventory tracking, menu configuration, and sales reporting.
-
-Core Objectives
-
-1. Efficiency: Automate routine operational tasks.
-
-2. Accuracy: Maintain real-time inventory and order status.
-
-3. Scalability: Provide a modular and extensible platform for growth.
-
-
-
-✨ Features
-
-The system provides the following key functionalities:
-
-1. Order Management:
-
- Accept and process incoming orders from various platforms.
-
- Track orders through states: RECEIVED, PREPARING, READY_FOR_PICKUP, DELIVERED, CANCELLED.
-
- Calculate order totals, including taxes and discounts.
-
-2. Menu Configuration:
-
- CRUD operations for Menu Items (name, price, description, category).
-
- Manage item availability and modifier groups (e.g., extra cheese, sauces).
-
-3. Inventory Control:
-
-Record and update stock levels for raw materials (ingredients).
-
-Alert kitchen staff when inventory falls below a predefined reorder threshold.
-
-Track consumption based on recipes (future feature).
-
-4. Reporting & Analytics:
-
- Generate daily, weekly, and monthly sales summaries.
-
- Track popular items and peak order times.
-
-
- 
-
-🛠️ Technology Stack
-
-
-
-Java 21+
-
-PostgreSQL / MySQL
-
-
-
-
-submit pull requests or open issues to suggest improvements or report bugs.
+🚀 Features
+📊 Academic Dashboard
+Track attendance, marks, and overall performance
+Real-time updates and analytics
+Personalized student insights
+🏁 Podium Rankings
+Class rankings displayed as F1-style podiums (P1, P2, P3)
+Competitive visualization of student performance
+Encourages healthy academic competition
+🗺️ Race Track Campus Map
+Interactive campus map designed like an F1 circuit
+Navigate through departments, classrooms, and facilities
+Visual and intuitive wayfinding system
+📈 Performance Analytics
+Graphs and trends for academic progress
+Compare performance across subjects and semesters
+Identify strengths and improvement areas
+🎨 F1-Themed UI/UX
+Race-inspired design elements (laps, leaderboards, pit stops)
+Dark mode with neon highlights
+Smooth and responsive interface
+🛠️ Tech Stack
+Frontend: React.js / HTML / CSS / JavaScript
+Backend: Node.js / Express.js
+Database: MongoDB / Firebase
+Visualization: Chart.js / D3.js
